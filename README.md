@@ -1,3 +1,4 @@
+# QUBO solver
 * Greedy.cpp:
    貪欲法(Greedy)のみに基づくC言語QUBOソルバー
 * SA_solver.cpp:
