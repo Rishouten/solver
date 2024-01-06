@@ -293,7 +293,7 @@ class Solution:
         self.greedy_loop()
 
 def main():
-    fname = 'C:\\Users\\84918\\Desktop\\QUBO_test\\4096.json'  #debugしやすいため、しばらくアドレスを固定にする
+    fname = '1024.json'  #debugしやすいため、しばらくアドレスを固定にする
     size = 8
     problem = QUBO(fname)
     result = Solution(problem)
